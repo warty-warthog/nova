@@ -32,12 +32,6 @@ Make use of our markdown editor too, it's pretty useful. Oh and, it also has a p
 
 I'm leaving the code available so you can feel free to host your own Nova🚀 instance or study the code for learning purposes. If you got any questions, just hit me up:
 
-- Twitter [@hunchodotdev](https://twitter.com/hunchodotdev)
-- Discord username [FatKidOnFiree#1355](FatKidOnFiree#1355) Add me as a friend ❤️
-- Email [hunchodotdev@gmail.com](mailto:hunchodotdev@gmail.com)
-- Email again [wartywarthog7@gmail.com](wartywarthog7@gmail.com)
-- Telegram [FatKidOnFiree](https://t.me/FatKidOnFiree)
-- Reddit username [yrn_quavo](yrn_quavo)
 
 Nova was created with [React](https://reactjs.org) and [Firebase](https://firebase.google.com).
 
